@@ -1,7 +1,7 @@
 
 # ExpenseTracker
 
-    React Based Project
+React Based Project
 
 
 ## Installation
